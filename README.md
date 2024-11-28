@@ -1,3 +1,8 @@
+系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
+
+执行如下命令：
+
+bash <(wget -qO- -o- https://git.io/v2ray.sh)
 # 介绍
 
 最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
